@@ -5,4 +5,10 @@
   "compatibility_date": "2026-03-13",
   "account_id": "7089a5a7c7502b4af0838883f348d5a2",
   "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "https://api.pro-meets.com/*",
+      "zone_id": "75dce880ed516a18600286c59c4ae801"
+    }
+  ]
 }
